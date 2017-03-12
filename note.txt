@@ -1,0 +1,7 @@
+---Correggere bug del terreno trapassabile
+--Aggiungere animazione acqua
+---Aggiungere schermata GAME OVER
+---Aggiungere rifiuti
+---Aggiungere schermata vittoria
+---Aggiungere schermata selezione livello
+Preload delle risorse
